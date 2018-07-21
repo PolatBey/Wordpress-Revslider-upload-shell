@@ -1,10 +1,14 @@
 # Wordpress-Revslider-upload-shell
 Wordpress Revslider upload shell
+
 # Yapmanız gerekenler ; 
+
 sunucuya dosyaları çekin. 
 list.txt ve sites.txt diye dosya olusturun. düşenler sites.txt gelicek 
 google de bu dorkları aratın ve list.txt kaydedin 
+
 dork : 
+
 inurl:wp-content/plugins/revslider/
 inurl:revslider
 inurl:revslider_admin.php
